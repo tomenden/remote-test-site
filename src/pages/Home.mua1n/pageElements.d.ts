@@ -1,0 +1,31 @@
+type PageElementsMap = {
+  "#page1": $w.Page;
+  "#vectorImage1": $w.VectorImage;
+  "#image1": $w.Image;
+  "#text7": $w.Text;
+  "#text6": $w.Text;
+  "#text5": $w.Text;
+  "#socialBar2": $w.HiddenCollapsedElement;
+  "#columnStrip1": $w.ColumnStrip;
+  "#anchor1": $w.Anchor;
+  "#column1": $w.Column;
+  "#iconButton1": $w.Button;
+  "#text4": $w.Text;
+  "#text3": $w.Text;
+  "#socialBar1": $w.HiddenCollapsedElement;
+  "#form1": $w.HiddenCollapsedElement;
+  "#text2": $w.Text;
+  "#input1": $w.TextInput;
+  "#button1": $w.Button;
+  "#text1": $w.Text;
+  "#header1": $w.Header;
+  "#horizontalMenu1": $w.HiddenCollapsedElement;
+  "#box1": $w.Box;
+  "#wixChat1": $w.Chatbox;
+  "#footer1": $w.Footer;
+  "#vectorImage2": $w.VectorImage;
+  "#text8": $w.Text;
+  "#text10": $w.Text;
+  "#iconButton2": $w.Button;
+  "#text9": $w.Text;
+}
